@@ -1,0 +1,14 @@
+{
+    "name": "geenentijd.brackets-autosave",
+    "title": "Autosave",
+    "description": "Autosave current document when it has changes",
+    "homepage": "https://github.com/GeenenTijd/brackets-autosave",
+    "version": "0.0.1",
+    "keywords":["autosave"],
+    "categories":"autosave",
+    "author": "Glenn Geenen <glenn@geenentijd.be> (http://www.geenentijd.be)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.38.0"
+    }
+}
